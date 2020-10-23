@@ -45,8 +45,9 @@ Modified by evilbutcher
 
 【Quantumult X】
 ----------------
+hostname = kuailimao.win
 [rewrite_local]
-https:\/\/cccat\.io url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+https:\/\/kuailimao\.pw url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
 （其中https:\/\/cccat\.io需要替换为你自己的机场链接）
 
 [task_local]

@@ -4,12 +4,12 @@ host-suffix,interface3.music.163.com,🙈 网易云音乐
 host-suffix,apm.music.163.com,🙈 网易云音乐
 host-suffix,apm3.music.163.com,🙈 网易云音乐
 host-suffix,musicupload.netease.com,🙈 网易云音乐
-IP-CIDR,198.18.3.56/32,🙈 网易云音乐
-IP-CIDR,198.18.3.57/32,🙈 网易云音乐
-IP-CIDR,198.18.3.59/32,🙈 网易云音乐
-IP-CIDR,198.18.3.58/32,🙈 网易云音乐
-IP-CIDR,198.18.3.60/32,🙈 网易云音乐
-IP-CIDR,198.18.3.61/32,🙈 网易云音乐
+#IP-CIDR,198.18.3.56/32,🙈 网易云音乐
+#IP-CIDR,198.18.3.57/32,🙈 网易云音乐
+#IP-CIDR,198.18.3.59/32,🙈 网易云音乐
+#IP-CIDR,198.18.3.58/32,🙈 网易云音乐
+#IP-CIDR,198.18.3.60/32,🙈 网易云音乐
+#IP-CIDR,198.18.3.61/32,🙈 网易云音乐
 
 #IP6-CIDR,240e:f7:4019:3::4/128,🙈 网易云音乐
 #IP6-CIDR,240e:f7:4019:53::4/128,🙈 网易云音乐
